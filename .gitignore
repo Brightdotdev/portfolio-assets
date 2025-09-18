@@ -1,0 +1,120 @@
+# Ignore node_modules folder
+/node_modules
+
+
+# Ignore tsconfig.json file
+/tsconfig.json
+
+
+/raw-assets
+# Ignore package-lock.json file
+/package-lock.json
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore .git folder
+/.git
+
+# Ignore .vs folder
+/.vs
+
+# Ignore .idea folder
+/.idea
+
+# Ignore *.log files
+*.log
+
+# Ignore npm-debug.log file
+npm-debug.log
+
+# Ignore yarn-debug.log file
+yarn-debug.log
+
+# Ignore yarn-error.log file
+yarn-error.log
+
+# Ignore .pnp.js file
+.pnp.js
+
+# Ignore .next folder
+.next
+
+# Ignore .vercel folder
+.vercel
+
+# Ignore .nuxt folder
+.nuxt
+
+# Ignore out folder
+/out
+
+# Ignore dist folder
+/dist
+
+# Ignore build folder
+/build
+
+# Ignore local dev config files
+.env.local
+.env.development.local
+.env.production.local
+.env.test.local
+
+# Ignore coverage reports
+/coverage
+
+# Ignore jest config files
+/jest.config.js
+/jest.setup.js
+
+# Ignore vscode settings
+.vscode/settings.json
+.vscode/extensions.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/argv.json
+.vscode/keybindings.json
+.vscode/snippets
+.vscode/userdata
+.vscode/workspaceSettings.json
+
+# Ignore local dev db files
+/db.sqlite3
+db.sqlite3-journal
+
+# Ignore local dev db migrations folder
+/db/migrations
+
+# Ignore local dev db seeds folder
+/db/seeds
+
+# Ignore local dev db factories folder
+/db/factories
+
+# Ignore local dev db indexes folder
+/db/indexes
+
+# Ignore local dev db schema folder
+/db/schema
+
+# Ignore local dev db logs folder
+/db/logs
+
+# Ignore local dev db seeds dev folder
+/db/seeds/dev
+
+# Ignore local dev db migrations dev folder
+/db/migrations/dev
+
+# Ignore local dev db factories dev folder
+/db/factories/dev
+
+# Ignore local dev db indexes dev folder
+/db/indexes/dev
+
+# Ignore local dev db schema dev folder
+/db/schema/dev
+
+# Ignore local dev db logs dev folder
+/db/logs/dev

@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reduce-and-convert": "npx ts-node scripts/convertAssets.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "module": "module",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.27",
+    "@types/node": "^24.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
